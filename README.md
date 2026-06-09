@@ -1,16 +1,16 @@
-## Hi there 👋
+### Hi, I'm Innocent 👋
 
-<!--
-**innocentmggl/innocentmggl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full-Stack & Mobile Engineer — 10+ years in fintech, payments & Web3.
 
-Here are some ideas to get you started:
+I build production financial systems: digital banks, payment gateways, and crypto
+wallets. Most of my work lives in private/proprietary repos (banking & fintech),
+so this profile shows a sample of personal and earlier projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🏦 Built the mobile platform for a digital bank serving 1M+ customers
+- 💳 Engineered payment gateways processing millions of transactions
+- 🪙 Currently building Solana crypto wallets — secure key management & on-chain signing
+- 🌍 Eswatini (GMT+2)
+
+**Tech:** Swift · Kotlin · React / React Native · Java / Spring · Python · Node.js · AWS · Kubernetes
+
+📫 innocentmggl@gmail.com · [LinkedIn](https://www.linkedin.com/in/innocent-magagula-88b957b9/)
