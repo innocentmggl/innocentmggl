@@ -13,4 +13,4 @@ so this profile shows a sample of personal and earlier projects.
 
 **Tech:** Swift · Kotlin · React / React Native · Java / Spring · Python · Node.js · AWS · Kubernetes
 
-📫 innocentmggl@gmail.com · [LinkedIn](https://www.linkedin.com/in/innocent-magagula-88b957b9/)
+📫 [LinkedIn](https://www.linkedin.com/in/innocent-magagula-88b957b9/)
